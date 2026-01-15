@@ -48,4 +48,10 @@ Data is used for analytical and educational purposes.
 - SQL (data extraction and KPI calculation)
 - Excel (analysis and calculations)
 - Power BI (data modeling and visualization)
+## **SQL Analysis**
+Basic SQL queries are used to calculate FP&A and management control KPIs from the raw retail dataset.
+
+- Total revenue calculation
+- Margin analysis (revenue, profit, margin %)
+
 
