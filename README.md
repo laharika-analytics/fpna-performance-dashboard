@@ -53,5 +53,7 @@ Basic SQL queries are used to calculate FP&A and management control KPIs from th
 
 - Total revenue calculation
 - Margin analysis (revenue, profit, margin %)
+- Monthly revenue trend analysis (MoM performance monitoring)
+
 
 
